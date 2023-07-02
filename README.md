@@ -1,5 +1,7 @@
 # pizza
-Lista con codigos:
+Se aplicaron los patrones de Fabrica para los tipos de Pizza y Estretegia para las promociones
+<br>
+### Lista con codigos:
 #### - COD1 Pizza Margarita
 #### - COD2 Pizza Peperoni
 #### - COD3 Pizza Personalizada
