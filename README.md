@@ -1,5 +1,5 @@
 # pizza
-Se aplicaron los patrones de Fabrica para los tipos de Pizza y Estretegia para las promociones
+Se aplicaron los patrones de Fábrica para los tipos de Pizza y Estretegia para las promociones.
 <br>
 ### Lista con codigos:
 #### - COD1 Pizza Margarita
